@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/goel01/CLionProjects/relearningC/section1/example-files/hello-world/main.c
+/home/goel01/CLionProjects/relearningC/section1/example-files/hello-world/main.c
 stdio.h
 -
 

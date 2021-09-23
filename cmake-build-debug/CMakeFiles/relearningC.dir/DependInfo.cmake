@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/goel01/CLionProjects/relearningC/section1/example-files/hello-world/main.c" "/Users/goel01/CLionProjects/relearningC/cmake-build-debug/CMakeFiles/relearningC.dir/section1/example-files/hello-world/main.c.o"
+  "/home/goel01/CLionProjects/relearningC/section1/example-files/hello-world/main.c" "/home/goel01/CLionProjects/relearningC/cmake-build-debug/CMakeFiles/relearningC.dir/section1/example-files/hello-world/main.c.o"
   )
-set(CMAKE_C_COMPILER_ID "AppleClang")
+set(CMAKE_C_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
